@@ -3,7 +3,7 @@
 <div align="center">
 🌱 I’m currently learning JavaScript and TypeScript
 
-⚡ Fun fact: I currently am a chemical engineering college student
+⚡ Fun fact: I collect dice, teeth and various other random things
 </div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=iveslou&label=Profile%20views&color=c478ed&style=flat" alt="iveslou" /> </p>
 
