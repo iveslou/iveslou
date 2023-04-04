@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Louise</h1>
+<h1 align="center">Hi 👋, I'm yuki</h1>
 <h3 align="center">Self-taught developer</h3>
 <div align="center">
 🌱 I’m currently learning JavaScript and TypeScript
